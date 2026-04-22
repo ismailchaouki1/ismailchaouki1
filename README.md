@@ -1,18 +1,122 @@
-# 💫 About Me:
-I am a Full Stack Web Developer focused on building clean, scalable, and user-friendly applications. I work confidently across front-end and back-end development, with a strong attention to detail, performance, and code quality. Driven by continuous improvement, I enjoy solving complex problems and delivering reliable, well-structured digital solutions.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-chaouki-4b44a3339/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ismailchaouki111@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ismailchaouki1&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ismailchaouki1&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailchaouki1&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Ismail Chaouki</h1>
+<h3 align="center">🚀 Full Stack Web Developer | Building Scalable & Smart Web Solutions</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ismailchaouki1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💡 About Me
+I’m a **Full Stack Web Developer** passionate about building **high-performance, scalable, and user-focused applications**.
+
+🔹 I transform ideas into **real digital products**  
+🔹 I focus on **clean architecture, performance, and UX**  
+🔹 I continuously improve through **real-world projects & problem-solving**
+
+💼 Recently completed a **Web Development Internship**, delivering multiple projects from **basic to advanced full-stack systems (CRUD, Auth, React apps)**.
+
+---
+
+## 🚀 What I Do
+- 🌐 Build **modern responsive web apps**
+- ⚙️ Develop **full-stack SaaS platforms**
+- 🔐 Implement **secure authentication (JWT)**
+- 🔌 Integrate **REST APIs & external services (OpenAI, etc.)**
+- 🎨 Design **clean UI/UX experiences**
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Frontend
+`HTML5` `CSS3` `SASS` `JavaScript (ES6+)`  
+`React.js` `Bootstrap` `Material UI` `Chakra UI` `GSAP`
+
+### ⚙️ Backend
+`PHP` `Laravel` `Node.js` `Express.js`
+
+### 🗄️ Databases
+`MySQL` `MongoDB` `Firebase`
+
+### 🔐 Auth & APIs
+`JWT` `REST APIs` `Axios` `Postman`
+
+### 🧩 Tools & Workflow
+`Git` `GitHub` `GitLab` `Jira`  
+`VS Code` `Figma` `Adobe XD`  
+`Vercel` `Netlify` `Apache`
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI-Gen Platform
+> WordPress + OpenAI API  
+- Automated AI content generation  
+- Custom PHP plugins  
+- Clean and modern UI  
+
+---
+
+### 🚗 Driving School SaaS (In Progress)
+> React + Laravel + MySQL + JWT  
+- Full management system (students, sessions, payments)  
+- Secure authentication system  
+- Scalable SaaS architecture  
+
+---
+
+### 🛒 Product Management App (CRUD)
+> HTML + CSS + JavaScript  
+- Dynamic product system  
+- Full CRUD operations  
+- Interactive UI  
+
+---
+
+### 🌦️ Weather & Prayer Times Apps
+> React + APIs  
+- Real-time weather data  
+- Location-based prayer times  
+- Modern UI with Material UI  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ismailchaouki1&theme=tokyonight&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ismailchaouki1&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailchaouki1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ismail-chaouki/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ismailchaouki111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 🎯 Current Goals
+- 🔥 Build production-ready SaaS projects  
+- 🌍 Start freelancing & working with international clients  
+- 📈 Master advanced system design & scalable architecture  
+
+---
+
+## ⚡ Fun Fact
+I don’t just write code — I build **solutions that solve real problems**.
+
+---
+
+<p align="center">
+  🚀 Open to Freelance & Collaboration Opportunities
+</p>
