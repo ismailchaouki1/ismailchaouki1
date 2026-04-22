@@ -27,7 +27,7 @@ I’m a **Full Stack Web Developer** passionate about building **high-performanc
 
 ### 💻 Frontend
 `HTML5` `CSS3` `SASS` `JavaScript (ES6+)`  
-`React.js` `Bootstrap` `Material UI` `Chakra UI` `GSAP`
+`React.js` `Bootstrap` `Material UI` `Chakra UI` `GSAP` `R3F`
 
 ### ⚙️ Backend
 `PHP` `Laravel` `Node.js` `Express.js`
@@ -43,39 +43,6 @@ I’m a **Full Stack Web Developer** passionate about building **high-performanc
 `VS Code` `Figma` `Adobe XD`  
 `Vercel` `Netlify` `Apache`
 
----
-
-## 📌 Featured Projects
-
-### 🤖 AI-Gen Platform
-> WordPress + OpenAI API  
-- Automated AI content generation  
-- Custom PHP plugins  
-- Clean and modern UI  
-
----
-
-### 🚗 Driving School SaaS (In Progress)
-> React + Laravel + MySQL + JWT  
-- Full management system (students, sessions, payments)  
-- Secure authentication system  
-- Scalable SaaS architecture  
-
----
-
-### 🛒 Product Management App (CRUD)
-> HTML + CSS + JavaScript  
-- Dynamic product system  
-- Full CRUD operations  
-- Interactive UI  
-
----
-
-### 🌦️ Weather & Prayer Times Apps
-> React + APIs  
-- Real-time weather data  
-- Location-based prayer times  
-- Modern UI with Material UI  
 
 ---
 
