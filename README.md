@@ -10,7 +10,7 @@ I’m a **Full Stack Web Developer** passionate about building **high-performanc
 🔹 I focus on **clean architecture, performance, and UX**  
 🔹 I continuously improve through **real-world projects & problem-solving**
 
-💼 Recently completed a **Web Development Internship**, delivering multiple projects from **basic to advanced full-stack systems (CRUD, Auth, React apps)**.
+💼 Recently completed a **Web Development Internship**, delivering multiple projects from **basic to advanced full-stack systems (Clario (SASS of driving school management system), User Avtiviy)**.
 
 ---
 
